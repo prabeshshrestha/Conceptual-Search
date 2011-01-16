@@ -1,0 +1,121 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,td,br
+{margin:0;padding:0; }
+
+table
+{border-collapse:collapse;border-spacing:0;}
+
+fieldset,img{border:0;}
+
+caption,th
+{text-align:left;}
+
+h1,h2,h3,h4,h5,h6{font-size:100%;}
+
+q:before,q:after
+{content:'';}
+body
+{font-family:Arial,Helvetica,sans-serif;}/* Hides from IE-mac \*/ 
+
+a{color:#606060;}
+
+a:visited{color:#C5C5D6;}
+
+a:hover{color:#6F6FFF;}
+
+a:active{color:#123C92;}
+
+
+body{margin-top:6px;margin-left:15px;margin-right:15px; background:#FFF;}
+
+.header{margin-left:-15px;margin-right:-15px; padding-bottom:30px; border-bottom:thin solid #DDDDDD;}
+.upper1{float:left;margin-left:21px;height:30px; color:#185A86;}
+.upper2{float:right;margin-left:645px;margin-right:9px; color:#185A86;text-align:right;}
+
+
+.u1,.u2,.u3,.v1,.v2,.v3{padding-bottom:5px;}
+
+#main{margin-top:135px;margin-left:21px;margin-right:21px;border-bottom:3px solid #666666;color:#FFFFFF;}
+#top
+{height:141px; background:url("images/headerstripe_loop.png") repeat-x top;text-align:center;}
+#top li,form,#tabs
+{text-align:left;}
+
+
+#tabs td{padding-right:.75em;}
+
+div.search a:link,div.search a:visited,div.search a:active
+{color:#EEE;}
+
+div#tabs td.active a:link,div#tabs td.active a:visited,div#tabs td.active a:active
+{color:#FFF;font-weight:bold;text-decoration:none;}
+
+div#tabs td
+{white-space:nowrap;}
+
+div.search a:hover{color:#FFF;text-decoration:none;}
+div.search-form{clear:both; margin-top:12px;}
+div.search-form ul.form-links{list-style-type:none;margin-left:.5em;padding-left:.5em;text-align:left;}
+div.search-form ul#form-links li{font-size:.4em;padding:.1em 0;}
+td.input{white-space:nowrap;}
+
+
+.footers { width:100%; text-align:center;padding-top:12px;border-top:thin solid #DDDDDD;}
+.copyright{margin-top:.5em; text-align:center;color:#383838;font-size:9px;}
+.copyright a:link,.copyright a:visited,.copyright a:hover,.copyright a:active{color:#666;font-size:90%;}
+a#copyright{text-decoration:none;}
+div.copyright *{vertical-align:middle;}
+div.privacy-policy{margin:5px 0;}
+div.clear{clear:both;}
+
+
+.search
+{width:780px;width:59em;margin:auto;position:relative;}
+
+.logo
+{position:absolute;top:30px;left:-60px;text-indent:-9999px;height:116px;width:172px;background:url(images/logo.png) no-repeat left top;}
+.logo:hover
+{position:absolute;top:30px;left:-60px;text-indent:-9999px;height:116px;width:172px;background:url(images/glogo.png) no-repeat left top;}
+
+.seperator1
+{position:absolute;top:34px;left:141px;text-indent:-9999px;height:129px;width:3px;background:url(images/logodivider.gif) no-repeat left top;}
+
+#tabs
+
+{padding-top:45px;padding-left:210px;padding-bottom:4px;}
+
+#tabs span{color:#FFF;font-weight:bold;}
+
+
+.search-form{clear:both;padding-left:210px;padding-bottom:25px;padding-bottom:20px;font-size:10px;}
+table.form a{font-size:11px;}
+input.query{width:28em;}
+
+td.seperator{width:12px;background:url(images/logodivider.gif) 11px 0 no-repeat;}
+
+#bottom{text-align:center;margin-left:15px;color:#000000;}
+#tabs td.tab{font-size:100%;}
+
+
+
+.new{margin:auto;text-align:left;margin-top:35px;margin-bottom:50px;margin-bottom:35px;width:19em;}
+.fresh{padding:0 2px 3px 0;background:#F8F8F7;}
+
+
+
+.fresh{position:relative;height:90px;margin-top:90px;margin-left:30px;}
+
+
+
+.bi{padding:18px 36px 0 0px;height:100px;}
+.bi p {text-align:center; margin-top:0px;}
+.bb{height:10px;margin:0 -2px;background:url(/images/new/front-fresh-box.gif) 100% 100% no-repeat;}
+.bb div{width:10px;height:10px;background:url(/images/new/front-fresh-box.gif) 0 100% no-repeat;}
+
+.fresh p,.fresh ul{background:url() 0 0 0 100% no-repeat}
+.fresh p{padding:.5em 1em;font-size:100%;}
+.fresh ul{list-style-type:none;padding:0 1em;padding-left:1em;}
+.fresh li{padding:.5em 0;padding-left:18px;background:url(/images/new/blue-bullet.gif) 0 50% no-repeat;font-size:100%;}
+
+.fresh {background:url(images/slbox.png) 0 0 no-repeat;}
+.fresh:hover { background:url(images/box.png) -1px -1px no-repeat;}
+.fresh a {color:#CCCCCC;}
