@@ -5,7 +5,7 @@ This project was done as part of our final year project at IOE , Pulchowk Campus
 
 Contributers
 ============
-1. Asim Shrestha
+1. Baibhav Rajbhandari 
 2. Prabesh Shrestha
 3. Sankalp Karna
 4. Subodh Raj Satyal
